@@ -1,2 +1,2 @@
-# misterios-dolorosos
-Versión interactiva de los Misterios Dolorosos del Santo Rosario - Comunidad Carretera Hacia Nuestro Salvador
+# misterios-Luminosos
+Versión interactiva de los Misterios Luminosos del Santo Rosario - Comunidad Carretera Hacia Nuestro Salvador
